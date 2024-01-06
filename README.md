@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ### Export Data from Moneyfarm
 1. Login on your Moneyfarm account
 2. Go into **Documents** 
-3. Download latest **Rendiconto Gestione Patrimoniale** (images/download-rendiconto.png)
+3. Download latest **Rendiconto Gestione Patrimoniale** ![Download MF](images/download-rendiconto.png)
 4. Copy downloaded file into project folder
 5. Run **main.py**, automatically takes the first pdf file in the folder, if you want to specify it put it after main.py
   ```python
