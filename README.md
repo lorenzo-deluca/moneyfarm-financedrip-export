@@ -29,7 +29,8 @@ python main.py Rendiconto+Gestione+Patrimoniale+3+trimestre+2023.pdf
 1. Login on your Financedrip account
 2. Create a Portfolio if you haven't yet
 3. Click on **Importa** 
-![Import Financedrip](images/financedrip-importa.png)
+![Import Financedrip](images/financedrip-Importa.png)
+
 4. Select CSV File 'export_for_financedrip.csv' with **Personalizzato** Broker
 5. Wait a few seconds and you should have all transactions imported :blush:
 ![Imported Financedrip](images/imported.png)
